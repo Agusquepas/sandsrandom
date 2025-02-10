@@ -1,15 +1,15 @@
 # Política de Privacidad
 
-**Última actualización:** [Fecha]
+**Última actualización:** 10/02/2025
 
-Esta política de privacidad describe cómo [Nombre de tu aplicación] recopila, usa y protege la información personal de los usuarios.
+Esta política de privacidad describe cómo sandsrandom recopila, usa y protege la información personal de los usuarios.
 
 ### Información que recopilamos
-- **Datos del calendario:** Accedemos a los eventos de Google Calendar para [explicar el propósito, por ejemplo, "automatizar la creación y edición de eventos"].
+- **Datos del calendario:** Accedemos a los eventos de Google Calendar para automatizar la creación y edición de eventos, así como tratamiento de información para uso del usuario.
 - **Tokens de acceso:** Utilizamos tokens de acceso OAuth2 para autenticarnos en Google Calendar. No almacenamos contraseñas.
 
 ### Cómo usamos la información
-- La información se usa exclusivamente para [explicar el uso, por ejemplo, "sincronizar eventos entre calendarios"].
+- La información se usa exclusivamente para crear, borrar y modificar eventos, así como informar al usuario sobre próximos eventos.
 
 ### Seguridad de los datos
 - Utilizamos medidas de seguridad estándar para proteger los datos de los usuarios.
@@ -18,4 +18,4 @@ Esta política de privacidad describe cómo [Nombre de tu aplicación] recopila,
 - Nos reservamos el derecho de actualizar esta política en cualquier momento.
 
 ### Contacto
-Si tienes preguntas, contáctanos en [tu correo electrónico].
+Si tienes preguntas, contáctanos en sandsrandomplaylister@gmail.com.
