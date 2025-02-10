@@ -1,0 +1,21 @@
+# Política de Privacidad
+
+**Última actualización:** [Fecha]
+
+Esta política de privacidad describe cómo [Nombre de tu aplicación] recopila, usa y protege la información personal de los usuarios.
+
+### Información que recopilamos
+- **Datos del calendario:** Accedemos a los eventos de Google Calendar para [explicar el propósito, por ejemplo, "automatizar la creación y edición de eventos"].
+- **Tokens de acceso:** Utilizamos tokens de acceso OAuth2 para autenticarnos en Google Calendar. No almacenamos contraseñas.
+
+### Cómo usamos la información
+- La información se usa exclusivamente para [explicar el uso, por ejemplo, "sincronizar eventos entre calendarios"].
+
+### Seguridad de los datos
+- Utilizamos medidas de seguridad estándar para proteger los datos de los usuarios.
+
+### Cambios a esta política
+- Nos reservamos el derecho de actualizar esta política en cualquier momento.
+
+### Contacto
+Si tienes preguntas, contáctanos en [tu correo electrónico].
